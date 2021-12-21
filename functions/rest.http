@@ -1,0 +1,5 @@
+
+GET http://localhost:8080/quicktowapp/us-central1/appApi
+
+###
+POST http://localhost:8080/quicktowapp/us-central1/appApi/createPaymentIntent
